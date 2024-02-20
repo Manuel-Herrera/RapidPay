@@ -1,0 +1,2 @@
+# RapidPay
+Rapid Payment Fee
